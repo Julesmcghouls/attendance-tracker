@@ -1,0 +1,14 @@
+.student {
+margin-bottom: 15px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+.absent-3 {
+color: yellow;
+}
+
+.absent-5 {
+color: red;
+}
